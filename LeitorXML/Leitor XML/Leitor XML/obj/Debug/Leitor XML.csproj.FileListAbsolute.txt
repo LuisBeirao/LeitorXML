@@ -1,0 +1,9 @@
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor_XML.frmPrincipal.resources
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor_XML.Properties.Resources.resources
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.GenerateResource.cache
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.CoreCompileInputs.cache
+C:\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.exe
+C:\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.pdb
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.exe
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.pdb
+C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csprojAssemblyReference.cache
