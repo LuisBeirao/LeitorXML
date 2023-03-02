@@ -14,7 +14,6 @@ namespace Leitor_XML.Classes.Funcoes
         {
             Serializacao.revista Revista = null;
 
-            XmlTextReader xmlReader = new XmlTextReader(strCaminho);
             StreamReader reader = new StreamReader(strCaminho);
 
             XmlSerializer serializer = new XmlSerializer(typeof(Serializacao.revista));

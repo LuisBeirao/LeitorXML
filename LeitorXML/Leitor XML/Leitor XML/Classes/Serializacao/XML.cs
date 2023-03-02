@@ -9,54 +9,54 @@ namespace Leitor_XML.Classes.Serializacao
     public class revista
     {
         [System.Xml.Serialization.XmlAttribute()]
-        public Int64 numero;
+        public Int64 numero { get; set; }
 
         [System.Xml.Serialization.XmlAttribute()]
-        public string data;
+        public string data { get; set; }
 
         [System.Xml.Serialization.XmlElement()]
-        public Processo[] processo;
+        public Processo[] processo { get; set; }
     }
 
     public class Processo
     {
         [System.Xml.Serialization.XmlAttribute()]
-        public Int64 numero;
+        public Int64 numero { get; set; }
 
         [System.Xml.Serialization.XmlElement()]
-        public Despachos despachos;
-        public object[] titulares;
-        public Sobrestadores sobrestadores;
-        public string procurador;
+        public Despachos despachos { get; set; }
+        public object[] titulares { get; set; }
+        public Sobrestadores sobrestadores { get; set; }
+        public string procurador { get; set; }
     }
 
     public class Despachos
     { 
-        public Despacho despacho;
+        public Despacho despacho { get; set; }
     }
     public class Sobrestadores  
     {
-        public Sobrestador sobrestador;
+        public Sobrestador[] sobrestador { get; set; }
     }
     public class Despacho
     {
         [System.Xml.Serialization.XmlAttribute()]
-        public string codigo;
+        public string codigo { get; set; }
 
         [System.Xml.Serialization.XmlAttribute()]
-        public string nome;
+        public string nome { get; set; }
 
         [System.Xml.Serialization.XmlElement()]
-        public string textocomplementar;
+        public string textocomplementar { get; set; }
     }
 
     public class Sobrestador
     {
         [System.Xml.Serialization.XmlAttribute()]
-        public string marca;
+        public string marca { get; set; }
 
         [System.Xml.Serialization.XmlAttribute()]
-        public string processo;
-        
+        public string processo { get; set; }
+
     }
 }

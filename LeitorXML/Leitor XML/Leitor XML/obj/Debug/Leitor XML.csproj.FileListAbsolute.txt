@@ -7,3 +7,14 @@ C:\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.pdb
 C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.exe
 C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.pdb
 C:\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csprojAssemblyReference.cache
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.exe.config
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.exe
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\bin\Debug\Leitor XML.pdb
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.AssemblyReference.cache
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.SuggestedBindingRedirects.cache
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor_XML.frmPrincipal.resources
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor_XML.Properties.Resources.resources
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.GenerateResource.cache
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.csproj.CoreCompileInputs.cache
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.exe
+C:\XML\LeitorXML\LeitorXML\Leitor XML\Leitor XML\obj\Debug\Leitor XML.pdb
